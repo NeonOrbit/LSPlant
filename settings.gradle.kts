@@ -15,6 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "LSPlant"
 include(
-    ":lsplant",
-    ":test",
+    ":lsplant"
 )
